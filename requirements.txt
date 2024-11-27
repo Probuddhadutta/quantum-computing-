@@ -1,0 +1,7 @@
+numpy
+pandas
+pylatexenc
+qiskit
+qiskit-aer
+seaborn
+scikit-learn
